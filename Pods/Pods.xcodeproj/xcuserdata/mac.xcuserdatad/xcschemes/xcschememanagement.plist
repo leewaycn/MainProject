@@ -4,16 +4,22 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>MainProject.xcscheme_^#shared#^_</key>
+		<key>ModuleA.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
-			<integer>2</integer>
+			<integer>0</integer>
 		</dict>
-		<key>ModelB.xcscheme_^#shared#^_</key>
+		<key>Pods-MainProject.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
-			<integer>3</integer>
+			<integer>1</integer>
 		</dict>
 	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict/>
 </dict>
 </plist>
